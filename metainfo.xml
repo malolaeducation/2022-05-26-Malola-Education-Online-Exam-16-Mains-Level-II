@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<presentation availableOffline="1" guid="C0082B43-DFB3-4E43-A0F5-D7236176B33A" version="0">
+	<info>
+		<title>2022-05-26 Malola Education Online Exam-16 Mains Level II</title>
+		<description/>
+	</info>
+	<files index="id37" thumbnail="id33" totalSize="4034084">
+		<file id="id0">data/apple-touch-icon.png</file>
+		<file id="id1">data/browsersupport.js</file>
+		<file id="id2">data/favicon.ico</file>
+		<file id="id3">data/fonts/fnt0.woff</file>
+		<file id="id4">data/fonts/fnt1.woff</file>
+		<file id="id5">data/fonts/fnt2.woff</file>
+		<file id="id6">data/fonts/fnt3.woff</file>
+		<file id="id7">data/fonts/fnt4.woff</file>
+		<file id="id8">data/html5-unsupported.html</file>
+		<file id="id9">data/html5.png</file>
+		<file id="id10">data/images/img-173cf13b17f8db1b4baf3e7194185e194435a84d.PNG</file>
+		<file id="id11">data/images/img-29baf4f4dc48b06dd70427daf283f54dfe9f65ac.PNG</file>
+		<file id="id12">data/images/img-2e97b2bb26251e9e611a3980e93bc5d7d63d45ff.PNG</file>
+		<file id="id13">data/images/img-349f792013e7325ecb923802f8a8bd6daadecd84.PNG</file>
+		<file id="id14">data/images/img-3fa5233875d96a4e5a844c4dceb7a77e44a598d5.PNG</file>
+		<file id="id15">data/images/img-445a35f934830933a29c0244fee009719daf9d71.PNG</file>
+		<file id="id16">data/images/img-53ccfe049602635f4a53e1c941820a3de64795c0.PNG</file>
+		<file id="id17">data/images/img-58370eea7d01d6402f4e3901a8ebb6682df51447.PNG</file>
+		<file id="id18">data/images/img-6d381d21e1d3068a8f26dda63f618315cb967e3b.PNG</file>
+		<file id="id19">data/images/img-84455b47730d31815f7ff5efd4842cd5735c0797.PNG</file>
+		<file id="id20">data/images/img-8c6f12f51db9db1f4b9ded7bb7a6dd0d04341b5e.PNG</file>
+		<file id="id21">data/images/img-ae2df6cf4fb560d7575459387975d3445262f2ac.PNG</file>
+		<file id="id22">data/images/img-b36ace0dc55e313e188a4f1377416c5ac5f36b90.PNG</file>
+		<file id="id23">data/images/img-c52815c085f82dde230a21e73f4d413465f0c22b.PNG</file>
+		<file id="id24">data/images/img-c73c245038d4f5934146b6f9d66c6148c4f26cb0.PNG</file>
+		<file id="id25">data/images/img-cb0ed213b189d8d878c5b4ee50d82a8022996ee5.PNG</file>
+		<file id="id26">data/images/img-d2c7b314c747e9ab8cb76b9d75f190f50180c1b2.PNG</file>
+		<file id="id27">data/images/img-e300fa942f9356f0d8c4cf2f0e3f38b442e720ea.PNG</file>
+		<file id="id28">data/images/img-e3f94e1e56749e6a79e9866f2ac45b1241fe2c5a.PNG</file>
+		<file id="id29">data/images/img-e79b0f36b54ff1bf6e9a9e7cc17fce59bbd1c379.PNG</file>
+		<file id="id30">data/images/img-ef499ff61bfd1b616bddcdd9b79c6f2544e876f9.PNG</file>
+		<file id="id31">data/ismplayer/app_store2x.png</file>
+		<file id="id32">data/ismplayer/play.svg</file>
+		<file id="id33">data/ismplayer/preview.png</file>
+		<file id="id34">data/ismplayer/style.css</file>
+		<file id="id35">data/ismplayer/style_mini.css</file>
+		<file id="id36">data/player.js</file>
+		<file id="id37">index.html</file>
+		<file id="id38">ismplayer.html</file>
+		<file id="id39">preview.png</file>
+	</files>
+</presentation>
+
